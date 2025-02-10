@@ -87,10 +87,11 @@ section {
 ¡Buena suerte y diviértanse creando su CV!
 
 
-## Screenshot flexbox froggy
+## Screenshot Flexbox Froggy
 ![alt text](<Flexbox froggy.png>)
 
 ## Screenshot Grid Garden
 ![alt text](<Grid Garden.png>)
 
 ## Link pagina web desplegada
+https://manuel-carreno.github.io/My-CV/
