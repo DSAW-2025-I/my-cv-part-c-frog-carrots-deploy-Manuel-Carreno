@@ -85,3 +85,12 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+
+## Screenshot flexbox froggy
+![alt text](<Flexbox froggy.png>)
+
+## Screenshot Grid Garden
+![alt text](<Grid Garden.png>)
+
+## Link pagina web desplegada
